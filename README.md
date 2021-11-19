@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chaitra
 - 👀 I’m interested in Web development and Software development
-- 🌱 I’m currently learning B.Tech in Computer Science and Engineering
+- 🌱 I’m currently studying B.Tech in Computer Science and Engineering
 
 
 <!---
